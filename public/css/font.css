@@ -1,0 +1,10 @@
+/* @font-face kit by Fonts2u (https://fonts2u.com) */
+@font-face {
+  font-family: "Beckman Free";
+  src: url("../fonts/Beckman-Free.eot") format("eot"),
+    url("../fonts/Beckman-Free.woff") format("woff"),
+    url("../fonts/Beckman-Free.ttf") format("truetype"),
+    url("../fonts/Beckman-Free.svg#BeckmanFree") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
